@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(245, 169, 195);
+}
+header{
+    text-align: center;
+    color:rgb(65, 65, 245)
+}
+nav{
+    text-align: center;
+    box-shadow: inset;
+}
